@@ -15,10 +15,8 @@ This is Dothraki Translator Web App
 
 ### Links
 
-Both Solution URL & Live Site URL to be updated soon
-
-- Solution URL: [Solution URL](https://github.com/nareshpoonia/minions-translator-app)
-- Live Site URL: [Live site URL](https://xyz.netlify.app/)
+- Solution URL: [Solution URL](https://github.com/nareshpoonia/dothraki-translator-app)
+- Live Site URL: [Live site URL](https://nareshdothrakitranslator.netlify.app/)
 
 ### Built with
 
@@ -28,7 +26,10 @@ Both Solution URL & Live Site URL to be updated soon
 
 ### What I learned
 
-Learning will be updated here
+- Learned about why it is vital to keep the script tag at the end of the body tag in html, while i wasn't doing so my app.js file wasn't working properly.
+- Learned about how to use an external API & link to your javascript
+- Learned about how to use an external API & link to your javascript
+- Learned about Error Handling
 
 ## Author
 
